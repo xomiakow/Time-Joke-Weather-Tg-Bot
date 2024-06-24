@@ -1,4 +1,4 @@
-# TimeJokeWeatherTgBot
+Time/Joke/Weather Telegram Bot
 Small university project 
 
 
